@@ -1,11 +1,17 @@
-# Schedule
-| Date        | Time   | Title                                           | Event Type                        | Speaker's Name and details                                                             |
-|-------------|--------|-------------------------------------------------|-----------------------------------|----------------------------------------------------------------------------------------|
-| 22nd August | 7:00PM | Let's get started with Open Source!             | Speaker session                   | Soumyadip Chowdhury, SOFTWARE ENGINEER @ Red Hat                                       |
-| 23rd August | 7:30PM | What exactly is DevRel?                         | Speaker session                   | Aditya Oberai DevRel @ Appwrite, MLH coach                                             |
-| 24th August | 7:30PM | Delve into the world of Git and Github          | Hands-on session/ Speaker session | Ankur Gupta, Github Campus Expert, Gold MLSA                                           |
-| 25th August | 7:30PM | Let's ace the Open-Source!                      | AMA                               | Abir Pal Open source Developer at AsyncAPI and   Rishit Dagli MLH fellow, TEDx Speaker |
-| 26th August | 7:00PM | How to make best out of Hackathons?             | Speaker session                   | Vanshika Srivastava, Tech Evangelist                                                   |
-| 26th August | 7:45PM | BlueSprint- The Ultimate Coding Battle, begins! | Opening ceremony                  |                                                                                        |
-| 27th August | 8:00PM | Tech Meet-up -Networking & Break-out rooms      | Community Event                   |                                                                                        |
-| 28th August | 7:00PM | BlueSprint- The Epic Finals                     | Closing ceremony                  | Karuna Tata GsoD @AsyncAPI, MLH Coach  Kaiwalya Koparkar Mentor and Judge @MLH         |
+# What is BlueLearn Open Sauce week?
+Open-Sauce Week is for community members who are open source enthusiast who wishes to make a difference and can solve any problem that comes to them.
+Attend events. Earn a digital certificate. Win Exciting prizes! Participate in giveaways!
+Increase your skills. Join an online community!
+
+# What is BlueLearn?
+BlueLearn is one of India's largest student communities that provides a one-stop platform for students to learn new skills, network with peers, apply for internships and grow as an individual.
+We already have 80,000+ members in our community, & our community is growing every day.
+Join now - linkkkk
+
+# Where can I find the schedule of all events happening?
+The schedule can be found [here](https://github.com/vj-codes/week-resources/blob/main/schedule.md)
+
+# Where can I find resources about open source?
+ listtt
+
+
